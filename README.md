@@ -4,3 +4,9 @@ The application will return a list of coordinates of all the waypoints it has tr
 There will be randomly generated obstacles (20) and the vehicle will traverse around them. 
 If the path to the delivery point is blocked, the application will identify the location of the obstacle that needs to be removed.
 
+Output of the Application:
+- Phase 1:
+[Screenshot](amazon_bot1.png)
+
+- Phase 2: 
+[Screenshot](amazon_bot2.png)
